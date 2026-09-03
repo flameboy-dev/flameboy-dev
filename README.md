@@ -80,22 +80,8 @@ A **Blood Bank Management System** designed to connect blood donors and recipien
 
 ---
 
-# 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=flameboy-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=flameboy-dev&theme=tokyonight&hide_border=true" height="170"/>
-</p>
 
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=flameboy-dev&theme=tokyo-night&hide_border=true" />
-</p>
-
----
 
 # 🤝 Connect With Me
 
