@@ -1,229 +1,244 @@
 <div align="center">
 
-<!-- 🌌 COZY FLAMEBOY BANNER -->
-<img src="./assets/flameboy-banner.png" width="100%" alt="flameboy - Full Stack Developer"/>
+<!-- 🔥 WARM FLAMEBOY HEADER -->
 
-<br><br>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:1a0b12,45:4a102a,75:8b1e3f,100:f97316&text=flameboy&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER&descAlignY=62&descSize=17&animation=twinkling" width="100%" alt="flameboy header"/>
 
-<!-- ✨ TYPING EFFECT -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%F0%9F%92%BB;MERN+Stack+Developer+%F0%9F%9A%80;Currently+Building+Syncora+%E2%9A%A1;Learning+TypeScript+%26+Next.js+%F0%9F%93%9A;Anime+%2B+Code+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG"/>
+<br/>
 
-<br><br>
+<!-- 🎌 EXTERNAL ANIME GIF -->
 
-<a href="https://flameiro.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-7C3AED?style=for-the-badge&logoColor=white"/>
-</a>
-<a href="https://github.com/flameboy-dev">
-<img src="https://img.shields.io/badge/💻%20GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/shubhajit-giri">
-<img src="https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:girishubhajit37@gmail.com">
-<img src="https://img.shields.io/badge/📩%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="380" alt="Anime lofi study"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=700&color=F9A8D4&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%F0%9F%92%BB;MERN+Stack+Developer+%F0%9F%9A%80;Building+Syncora+%E2%9A%A1;Learning+TypeScript+%26+Next.js+%F0%9F%93%9A;Anime+%2B+Code+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG"/>
+
+<br/><br/>
+
+<a href="https://flameiro.vercel.app/"><img src="https://img.shields.io/badge/🌐%20Portfolio-8B1E3F?style=for-the-badge"/></a>
+<a href="https://github.com/flameboy-dev"><img src="https://img.shields.io/badge/💻%20GitHub-24131A?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://linkedin.com/in/shubhajit-giri"><img src="https://img.shields.io/badge/💼%20LinkedIn-A45EE9?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:girishubhajit37@gmail.com"><img src="https://img.shields.io/badge/📩%20Email-F97316?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
----
+<table>
+<tr>
+<td width="58%" valign="top">
 
-## 🌙 About Me
+🌙 About Me
 
-<img align="right" width="320" src="./assets/anime-coding.gif" alt="cozy anime coding"/>
+Hey! I'm flameboy 👋
 
-Hey! I'm **flameboy** 👋
+I'm a Full-Stack Developer who enjoys turning ideas into real-world applications and learning through hands-on projects.
 
-I'm a **Full-Stack Developer** who enjoys turning ideas into real-world web applications and learning by building.
-
-```js
 const flameboy = {
   role: "Full-Stack Developer",
   stack: "MERN",
-  currentlyLearning: ["TypeScript", "Next.js"],
-  currentlyBuilding: "Syncora",
-  openTo: "Open Source & Developer Opportunities",
-  loves: ["Anime", "Coding", "Building Projects"]
+  learning: ["TypeScript", "Next.js"],
+  building: "Syncora",
+  interests: ["Anime", "Coding", "Open Source"]
 };
-```
 
-- 🔭 Building **Syncora**
-- 🌱 Learning **TypeScript & Next.js**
-- 💻 Focused on **MERN Stack & Backend Development**
-- 👯 Open to **Open Source Collaboration**
-- 🎯 Goal: Become a stronger **Full-Stack Developer**
-- 🎌 Anime enthusiast
+🔭 Building Syncora
 
-<br clear="right"/>
+🌱 Learning TypeScript & Next.js
 
----
+💻 Focused on MERN & Backend Development
 
-# ⚡ Current Mission
+🤝 Open to Open Source Collaboration
+
+🎯 Becoming a stronger Full-Stack Developer
+
+🎌 Anime enthusiast
+
+</td>
+
+<td width="42%" valign="top" align="center">
+
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="320" alt="Rainy anime window"/>
+
+<br/>
+
+Late nights. Quiet music. Clean code. ☕💻
+
+</td>
+</tr>
+</table>
+
+⚡ Currently Building
 
 <div align="center">
 
-### 🚀 SYNCORA
+🚀 SYNCORA
 
-**A full-stack team collaboration platform**
+Team Collaboration & Productivity Platform
 
-📋 Project Management &nbsp; • &nbsp;
-💬 Team Communication &nbsp; • &nbsp;
-⚡ Productivity &nbsp; • &nbsp;
+📋 Project Management   •  
+💬 Team Communication   •  
+⚡ Productivity   •  
 👥 Collaboration
 
-<br>
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,ts" alt="Syncora tech stack"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,ts" alt="Syncora stack"/>
 
-<br><br>
+<br/><br/>
 
-`🟡 Under Active Development`
+🟡 Under Active Development
 
 </div>
 
----
+🛠️ Tech Stack
 
-# 🛠️ Tech Arsenal
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
-<div align="center">
+🎨 Frontend
 
-### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap" alt="Frontend stack"/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap" alt="Frontend technologies"/>
+</td>
 
-<br><br>
+<td align="center" width="50%">
 
-### ⚙️ Backend & Database
+⚙️ Backend & Database
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,redis" alt="Backend technologies"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,redis" alt="Backend stack"/>
 
-<br><br>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
 
-### 🔧 Tools & Environment
+🔧 Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" alt="Developer tools"/>
 
-</div>
+</td>
+</tr>
+</table>
 
----
+🚀 Featured Projects
 
-# 🚀 Featured Projects
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### ⚡ Syncora
-**Team Collaboration & Productivity Platform**
+⚡ Syncora
 
-A full-stack platform designed to bring project management, communication and productivity into one place.
+Team Collaboration & Productivity Platform
 
-`React` `Node.js` `Express` `MongoDB` `TypeScript`
+A full-stack platform bringing project management, communication and productivity into one place.
 
-🚧 **Currently Building**
+React Node.js Express MongoDB TypeScript
 
-### 🏫 Evergreen Model School
-**School Website**
+🚧 Currently Building
 
-A complete school website built to provide students, parents and visitors with information about academics, facilities, activities and the school environment.
+</td>
 
-🌐 [**Visit Website →**](https://evergreenmodelschool.in/)
+<td width="50%" valign="top">
 
-### 🏨 Book My Hotel
-**Hotel Booking Web Application**
+🏫 Evergreen Model School
+
+School Website
+
+A complete school website for students, parents and visitors.
+
+🌐 Visit Website →
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+🏨 Book My Hotel
+
+Hotel Booking Web Application
 
 A web application focused on discovering hotels and providing a simple booking experience.
 
-🌐 [**Live Demo →**](https://book-my-hotel-eight.vercel.app/)
+🌐 Live Demo →
 
-### 🩸 Blood Care
-**Blood Bank Management System**
+</td>
 
-A web application designed around donor management, blood requests and blood availability.
+<td width="50%" valign="top">
 
-🌐 [**Live Demo →**](https://blood-care-alpha.vercel.app/)
+🩸 Blood Care
 
----
+Blood Bank Management System
 
-# 🎨 Development Philosophy
+A web application for donor management, blood requests and blood availability.
+
+🌐 Live Demo →
+
+</td>
+</tr>
+</table>
+
+🎌 Anime Break
 
 <div align="center">
 
-> ### **Code. Build. Break. Learn. Repeat.**
+<img src="https://media.giphy.com/media/DGsDLr9nyz2LkVgKFs/giphy.gif" width="360" alt="Gojo anime GIF"/>
 
-💡 **Ideas** → 💻 **Code** → 🚀 **Deploy** → 📚 **Learn** → 🔁 **Improve**
+<br/><br/>
+
+☕ Code a little.
+
+🎌 Watch a little anime.
+
+🔥 Build again.
 
 </div>
 
----
-
-# 📊 GitHub Stats
+📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=flameboy-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="180" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=flameboy-dev&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="170" alt="GitHub Stats"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=flameboy-dev&theme=tokyonight&hide_border=true" height="180" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com?user=flameboy-dev&theme=radical&hide_border=true" height="170" alt="GitHub Streak"/>
 
-<br><br>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flameboy-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="380" alt="Top languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flameboy-dev&layout=donut&theme=radical&hide_border=true&langs_count=6" width="360" alt="Top Languages"/>
 
 </div>
 
----
+Note: GitHub's own contribution calendar is displayed natively on your profile, so I intentionally removed the unreliable third-party activity graph that was showing broken. The stats and language cards above use the documented github-readme-stats endpoints.
 
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=flameboy-dev&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution graph"/>
-
-</div>
-
----
-
-# 🎌 Anime Corner
+💜 Let's Connect
 
 <div align="center">
 
-<img src="./assets/anime-coding.gif" width="430" alt="Anime coding"/>
+<a href="https://github.com/flameboy-dev">GitHub</a>
+  •  
+<a href="https://linkedin.com/in/shubhajit-giri">LinkedIn</a>
+  •  
+<a href="https://youtube.com/@iamflameiro">YouTube</a>
+  •  
+<a href="https://instagram.com/flameboy.sg">Instagram</a>
+  •  
+<a href="mailto:girishubhajit37@gmail.com">Email</a>
 
-<br><br>
+<br/><br/>
 
-### ☕ Late nights. 💻 Clean code. 🎌 Good anime.
+🌐 Portfolio
+  •  
+📄 Resume
 
-</div>
+<br/><br/>
 
----
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180" alt="Cat coding GIF"/>
 
-# 🤝 Let's Connect
+<br/><br/>
 
-<div align="center">
+Thanks for visiting my profile! 🔥
 
-<a href="https://github.com/flameboy-dev"><img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/shubhajit-giri"><img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="mailto:girishubhajit37@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Email"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://youtube.com/@iamflameiro"><img src="https://skillicons.dev/icons?i=youtube" width="45" alt="YouTube"/></a>
-
-<br><br>
-
-🌐 **Portfolio:** [flameiro.vercel.app](https://flameiro.vercel.app/)
-
-📄 **Resume:** [View My Resume](https://drive.google.com/file/d/17FEQ7QZtxXM32q05pUAHPmJOzpG8643q/view)
-
-📧 **Email:** girishubhajit37@gmail.com
-
-</div>
-
----
-
-<div align="center">
-
-### 💜 Thanks for visiting my profile
-
-*Made with ☕, code & a little bit of anime.*
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:312E81,100:111827&height=120&section=footer" width="100%" alt="Footer"/>
+Code • Build • Learn • Repeat
 
 </div>
