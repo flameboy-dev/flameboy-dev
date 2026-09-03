@@ -4,7 +4,6 @@
 
 <!-- 🎌 EXTERNAL ANIME GIF -->
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="380" alt="Anime lofi study"/>
 
 <br/><br/>
 
