@@ -2,10 +2,6 @@
 
 <!-- 🔥 WARM FLAMEBOY HEADER -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:1a0b12,45:4a102a,75:8b1e3f,100:f97316&text=flameboy&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER&descAlignY=62&descSize=17&animation=twinkling" width="100%" alt="flameboy header"/>
-
-<br/>
-
 <!-- 🎌 EXTERNAL ANIME GIF -->
 
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="380" alt="Anime lofi study"/>
