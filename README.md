@@ -1,39 +1,43 @@
 <div align="center">
 
-<!-- 🔥 WARM FLAMEBOY HEADER -->
+<!-- 🔥 WARM / COZY FLAMEBOY BANNER -->
 
-<!-- 🎌 EXTERNAL ANIME GIF -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:1A0B12,45:5B1230,75:9F2C4F,100:F97316&text=flameboy&fontSize=64&fontColor=FFFFFF&fontAlignY=39&desc=FULL%20STACK%20DEVELOPER&descAlignY=62&descSize=18&animation=twinkling" width="100%" alt="flameboy warm banner"/>
 
+<!-- 🎌 COZY ANIME GIF — external source -->
+
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" alt="Cozy anime study"/>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=700&color=F9A8D4&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%F0%9F%92%BB;MERN+Stack+Developer+%F0%9F%9A%80;Building+Syncora+%E2%9A%A1;Learning+TypeScript+%26+Next.js+%F0%9F%93%9A;Anime+%2B+Code+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=700&color=F9A8D4&center=true&vCenter=true&width=720&lines=Full-Stack+Developer+%F0%9F%92%BB;MERN+Stack+Developer+%F0%9F%9A%80;Building+Syncora+%E2%9A%A1;Learning+TypeScript+%26+Next.js+%F0%9F%93%9A;Anime+%2B+Code+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG"/>
 
 <br/><br/>
 
-<a href="https://flameiro.vercel.app/"><img src="https://img.shields.io/badge/🌐%20Portfolio-8B1E3F?style=for-the-badge"/></a>
+<a href="https://flameiro.vercel.app/"><img src="https://img.shields.io/badge/🌐%20Portfolio-9F2C4F?style=for-the-badge&logoColor=white"/></a>
 <a href="https://github.com/flameboy-dev"><img src="https://img.shields.io/badge/💻%20GitHub-24131A?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://linkedin.com/in/shubhajit-giri"><img src="https://img.shields.io/badge/💼%20LinkedIn-A45EE9?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/shubhajit-giri"><img src="https://img.shields.io/badge/💼%20LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:girishubhajit37@gmail.com"><img src="https://img.shields.io/badge/📩%20Email-F97316?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="62%" valign="top">
 
 🌙 About Me
 
 Hey! I'm flameboy 👋
 
-I'm a Full-Stack Developer who enjoys turning ideas into real-world applications and learning through hands-on projects.
+I'm a Full-Stack Developer who enjoys turning ideas into real-world web applications and improving by building.
 
 const flameboy = {
   role: "Full-Stack Developer",
   stack: "MERN",
   learning: ["TypeScript", "Next.js"],
   building: "Syncora",
-  interests: ["Anime", "Coding", "Open Source"]
+  openTo: "Open Source & Developer Opportunities",
+  interests: ["Anime", "Coding", "Building Projects"]
 };
 
 🔭 Building Syncora
@@ -44,19 +48,23 @@ const flameboy = {
 
 🤝 Open to Open Source Collaboration
 
-🎯 Becoming a stronger Full-Stack Developer
+🎯 Goal: become a stronger Full-Stack Developer
 
 🎌 Anime enthusiast
 
 </td>
 
-<td width="42%" valign="top" align="center">
+<td width="38%" valign="top" align="center">
 
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="320" alt="Rainy anime window"/>
+<!-- 🌃 EXTERNAL ANIME GIF -->
 
-<br/>
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300" alt="Anime city lights"/>
 
-Late nights. Quiet music. Clean code. ☕💻
+<br/><br/>
+
+☕ Code late. Build often.
+
+🎌 Anime between commits.
 
 </td>
 </tr>
@@ -70,14 +78,14 @@ Late nights. Quiet music. Clean code. ☕💻
 
 Team Collaboration & Productivity Platform
 
-📋 Project Management   •  
-💬 Team Communication   •  
-⚡ Productivity   •  
+📋 Project Management
+💬 Team Communication
+⚡ Productivity
 👥 Collaboration
 
-<br/><br/>
+<br/>
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,ts" alt="Syncora stack"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,ts" alt="Syncora tech stack"/>
 
 <br/><br/>
 
@@ -93,24 +101,23 @@ Team Collaboration & Productivity Platform
 
 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap" alt="Frontend stack"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap" alt="Frontend"/>
 
 </td>
-
 <td align="center" width="50%">
 
 ⚙️ Backend & Database
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,redis" alt="Backend stack"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,redis" alt="Backend and database"/>
 
 </td>
 </tr>
 <tr>
 <td align="center" colspan="2">
 
-🔧 Tools
+🔧 Tools & Environment
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" alt="Developer tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" alt="Tools"/>
 
 </td>
 </tr>
@@ -126,7 +133,7 @@ Team Collaboration & Productivity Platform
 
 Team Collaboration & Productivity Platform
 
-A full-stack platform bringing project management, communication and productivity into one place.
+A full-stack platform designed to bring project management, communication and productivity into one place.
 
 React Node.js Express MongoDB TypeScript
 
@@ -178,62 +185,98 @@ A web application for donor management, blood requests and blood availability.
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/DGsDLr9nyz2LkVgKFs/giphy.gif" width="360" alt="Gojo anime GIF"/>
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300" alt="Anime ramen"/>
 
 <br/><br/>
 
-☕ Code a little.
-
-🎌 Watch a little anime.
-
-🔥 Build again.
+☕ Code a little. 🎌 Watch a little anime. 🔥 Build again.
 
 </div>
 
-📊 GitHub Stats
+📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=flameboy-dev&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="170" alt="GitHub Stats"/>
+<!-- Reliable alternative: GitHub Profile Summary Cards -->
 
-<img src="https://streak-stats.demolab.com?user=flameboy-dev&theme=radical&hide_border=true" height="170" alt="GitHub Streak"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=flameboy-dev&theme=radical" width="95%" alt="GitHub profile activity"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flameboy-dev&layout=donut&theme=radical&hide_border=true&langs_count=6" width="360" alt="Top Languages"/>
+<table>
+<tr>
+<td>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=flameboy-dev&theme=radical&hide_border=true" alt="GitHub statistics"/>
+
+</td>
+<td>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=flameboy-dev&theme=radical&hide_border=true" alt="Top repository languages"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- Independent streak card -->
+
+<img src="https://streak-stats.demolab.com/?user=flameboy-dev&theme=radical&hide_border=true" width="70%" alt="GitHub streak"/>
 
 </div>
 
-Note: GitHub's own contribution calendar is displayed natively on your profile, so I intentionally removed the unreliable third-party activity graph that was showing broken. The stats and language cards above use the documented github-readme-stats endpoints.
-
-💜 Let's Connect
+🤝 Let's Connect
 
 <div align="center">
 
-<a href="https://github.com/flameboy-dev">GitHub</a>
-  •  
-<a href="https://linkedin.com/in/shubhajit-giri">LinkedIn</a>
-  •  
-<a href="https://youtube.com/@iamflameiro">YouTube</a>
-  •  
-<a href="https://instagram.com/flameboy.sg">Instagram</a>
-  •  
-<a href="mailto:girishubhajit37@gmail.com">Email</a>
+<a href="https://github.com/flameboy-dev">
+<img src="https://img.shields.io/badge/GitHub-flameboy--dev-24131A?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/shubhajit-giri">
+<img src="https://img.shields.io/badge/LinkedIn-shubhajit--giri-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://fb.com/shubhajit.giri.56">
+<img src="https://img.shields.io/badge/Facebook-shubhajit.giri.56-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/flameboy.sg">
+<img src="https://img.shields.io/badge/Instagram-flameboy.sg-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com/SuvoGiri68093">
+<img src="https://img.shields.io/badge/X%20(Twitter)-SuvoGiri68093-18181B?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://youtube.com/@iamflameiro">
+<img src="https://img.shields.io/badge/YouTube-@iamflameiro-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
 
 <br/><br/>
+
+📧 girishubhajit37@gmail.com
 
 🌐 Portfolio
-  •  
-📄 Resume
+📄 Resume / Experience
+
+</div>
+
+<div align="center">
+
+<!-- 🎬 EXTERNAL GOJO GIF — no cat GIF -->
+
+<img src="https://media.giphy.com/media/DGsDLr9nyz2LkVgKFs/giphy.gif" width="300" alt="Gojo anime GIF"/>
 
 <br/><br/>
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180" alt="Cat coding GIF"/>
+🔥 Keep coding. Keep building. Keep learning.
 
-<br/><br/>
+Made with ☕ and a little bit of anime.
 
-Thanks for visiting my profile! 🔥
+<br/>
 
-Code • Build • Learn • Repeat
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,50:9F2C4F,100:1A0B12&height=120&section=footer" width="100%" alt="Warm footer"/>
 
 </div>
