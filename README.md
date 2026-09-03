@@ -6,9 +6,8 @@
 
 <!-- 🎌 COZY ANIME GIF — external source -->
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" alt="Cozy anime study"/>
 
-<br/><br/>
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=700&color=F9A8D4&center=true&vCenter=true&width=720&lines=Full-Stack+Developer+%F0%9F%92%BB;MERN+Stack+Developer+%F0%9F%9A%80;Building+Syncora+%E2%9A%A1;Learning+TypeScript+%26+Next.js+%F0%9F%93%9A;Anime+%2B+Code+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG"/>
 
@@ -31,14 +30,6 @@ Hey! I'm flameboy 👋
 
 I'm a Full-Stack Developer who enjoys turning ideas into real-world web applications and improving by building.
 
-const flameboy = {
-  role: "Full-Stack Developer",
-  stack: "MERN",
-  learning: ["TypeScript", "Next.js"],
-  building: "Syncora",
-  openTo: "Open Source & Developer Opportunities",
-  interests: ["Anime", "Coding", "Building Projects"]
-};
 
 🔭 Building Syncora
 
@@ -257,9 +248,6 @@ A web application for donor management, blood requests and blood availability.
 <br/><br/>
 
 📧 girishubhajit37@gmail.com
-
-🌐 Portfolio
-📄 Resume / Experience
 
 </div>
 
