@@ -114,64 +114,6 @@ Team Collaboration & Productivity Platform
 </tr>
 </table>
 
-🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-⚡ Syncora
-
-Team Collaboration & Productivity Platform
-
-A full-stack platform designed to bring project management, communication and productivity into one place.
-
-React Node.js Express MongoDB TypeScript
-
-🚧 Currently Building
-
-</td>
-
-<td width="50%" valign="top">
-
-🏫 Evergreen Model School
-
-School Website
-
-A complete school website for students, parents and visitors.
-
-🌐 Visit Website →
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-🏨 Book My Hotel
-
-Hotel Booking Web Application
-
-A web application focused on discovering hotels and providing a simple booking experience.
-
-🌐 Live Demo →
-
-</td>
-
-<td width="50%" valign="top">
-
-🩸 Blood Care
-
-Blood Bank Management System
-
-A web application for donor management, blood requests and blood availability.
-
-🌐 Live Demo →
-
-</td>
-</tr>
-</table>
-
 🎌 Anime Break
 
 <div align="center">
