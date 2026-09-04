@@ -184,37 +184,6 @@ A web application for donor management, blood requests and blood availability.
 
 </div>
 
-📊 GitHub Activity
-
-<div align="center">
-
-<!-- Reliable alternative: GitHub Profile Summary Cards -->
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=flameboy-dev&theme=radical" width="95%" alt="GitHub profile activity"/>
-
-<br/><br/>
-
-<table>
-<tr>
-<td>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=flameboy-dev&theme=radical&hide_border=true" alt="GitHub statistics"/>
-
-</td>
-<td>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=flameboy-dev&theme=radical&hide_border=true" alt="Top repository languages"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- Independent streak card -->
-
-<img src="https://streak-stats.demolab.com/?user=flameboy-dev&theme=radical&hide_border=true" width="70%" alt="GitHub streak"/>
-
 </div>
 
 🤝 Let's Connect
