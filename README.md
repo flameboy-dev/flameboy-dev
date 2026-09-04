@@ -148,7 +148,7 @@ Team Collaboration & Productivity Platform
 <img src="https://img.shields.io/badge/Instagram-flameboy.sg-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://twitter.com/SuvoGiri68093">
+<a href="https://twitter.com/flameboydev">
 <img src="https://img.shields.io/badge/X%20(Twitter)-SuvoGiri68093-18181B?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
