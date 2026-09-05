@@ -30,9 +30,6 @@ Hey! I'm flameboy 👋
 
 I'm a Full-Stack Developer who enjoys turning ideas into real-world web applications and improving by building.
 
-
-🔭 Building Syncora
-
 🌱 Learning TypeScript & Next.js
 
 💻 Focused on MERN & Backend Development
@@ -60,27 +57,6 @@ I'm a Full-Stack Developer who enjoys turning ideas into real-world web applicat
 </td>
 </tr>
 </table>
-
-⚡ Currently Building
-
-<div align="center">
-
-🚀 SYNCORA
-
-Team Collaboration & Productivity Platform
-
-📋 Project Management
-💬 Team Communication
-⚡ Productivity
-👥 Collaboration
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,ts" alt="Syncora tech stack"/>
-
-<br/><br/>
-
-🟡 Under Active Development
 
 </div>
 
